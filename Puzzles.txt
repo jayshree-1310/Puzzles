@@ -1,0 +1,8 @@
+Puzzles
+Coffees:Hot and cold
+Shakes
+Food
+Dessert
+All
+
+Card:Nmae,pic,desc,price,class(coffee,shake,dessert etc),Add item
